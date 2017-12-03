@@ -1,0 +1,235 @@
+{  
+   "products":[  
+      {  
+         "id":"007f26f3-acb1-42c0-ac08-ebfee769522d",
+         "url":"https://topcomputer.ru/catalog/confcode578809.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578809",
+         "price":"178990",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"32 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"4000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"5fbaa54c-c05c-48a6-9c1d-b7811394bfab",
+         "url":"https://topcomputer.ru/catalog/confcode578808.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578808",
+         "price":"178990",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"32 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"3000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"47968311-d973-45f0-999a-093fc6aa884e",
+         "url":"https://topcomputer.ru/catalog/confcode578853.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578853",
+         "price":"179090",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"16 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"6000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"34ef57c0-b314-49e6-b40d-31ecdb10c32c",
+         "url":"https://topcomputer.ru/catalog/confcode578801.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578801",
+         "price":"179290",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"32 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"4000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"e76b97a0-7f23-4e1c-96ca-8292845b7513",
+         "url":"https://topcomputer.ru/catalog/confcode578854.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578854",
+         "price":"179389",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"16 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"6000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"63259d53-36c4-4040-aed1-d1524f5e69ef",
+         "url":"https://topcomputer.ru/catalog/confcode578810.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578810",
+         "price":"182390",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"32 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"4000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"0c62a81d-e837-433c-a6ff-d0fd3ae4bfe9",
+         "url":"https://topcomputer.ru/catalog/confcode578852.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578852",
+         "price":"184390",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"16 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"6000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"88b030f0-8b97-4380-9155-e56b0ff32efa",
+         "url":"https://topcomputer.ru/catalog/confcode578826.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578826",
+         "price":"187290",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"32 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"6000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"e151d013-1ea3-4630-b5f9-c11be5a63f97",
+         "url":"https://topcomputer.ru/catalog/confcode578827.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578827",
+         "price":"187590",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"32 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"6000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+      {  
+         "id":"961d5eff-f2be-4019-9bd2-f2961846e3ca",
+         "url":"https://topcomputer.ru/catalog/confcode578825.html",
+         "name":"Системный блок игрового ПК TopComp PG 7578825",
+         "price":"192490",
+         "type":"games",
+         "characteristics":  
+            {  
+               "processor":"Intel Core i7 6850K",
+               "clock_frequency":"3.6 ГГц",
+               "NumberOfCores":"6 ядер",
+               "socket":"s2011",
+               "Form_fac_Case":"ATX",
+               "type_ram":"DDR4",
+               "volume_ram":"32 Гб",
+               "frequency_ram":"2133 МГц",
+               "volume_hdd":"6000 Гб",
+               "videocarta":"NVIDIA GeForce GTX 1080 Ti - 11264 Мб",
+               "volume_video":"11264 Мб",
+               "PowerSupply":"700W"
+            }
+         
+      },
+
+   ]
+}
